@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuna_idea_tools=self.webpackChunkuna_idea_tools||[]).push([[601],{5442:function(a){a.exports=JSON.parse('{"allTagsPath":"/una-idea-tools/blog/tags","slug":"/una-idea-tools/blog/tags/hola","name":"hola","count":1,"permalink":"/una-idea-tools/blog/tags/hola"}')}}]);
