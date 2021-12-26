@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ciweigg2.github.io/una-idea-tools/blog</id>
-    <title>una-idea-tools Blog</title>
+    <title>Una Idea Tools Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ciweigg2.github.io/una-idea-tools/blog"/>
-    <subtitle>una-idea-tools Blog</subtitle>
+    <subtitle>Una Idea Tools Blog</subtitle>
     <icon>https://ciweigg2.github.io/una-idea-tools/img/una-idea-tools.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
